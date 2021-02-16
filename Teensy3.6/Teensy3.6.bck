@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MK66FX1M0
+D MK66FX1M0 (Teensy 3-6) and MK64FX512 (Teensy 3.5)
+K Teensy, Kinetis, NXP
+$ENDCMP
+#
+#End Doc Library

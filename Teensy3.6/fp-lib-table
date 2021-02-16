@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MK66FX1M0VMD18)(type KiCad)(uri ${KIPRJMOD}/lib/MK66FX1M0VMD18)(options "")(descr ""))
+)

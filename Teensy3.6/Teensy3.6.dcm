@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MK66FX1M0
+D MK66FX1M0 (Teensy 3-6) and MK64FX512 (Teensy 3.5)
+K Teensy, Kinetis, NXP
+F https://www.nxp.com/docs/en/data-sheet/K66P144M180SF5V2.pdf
+$ENDCMP
+#
+$CMP MKL02Z16VFG4
+D Kinetis KL02 series, 48-MHz/32-bit ARM Cortex-M0+, 16 kB flash, 2 kB SRAM, QFN-16
+K Kinetis KL02 ARM Cortex M0+
+F http://www.nxp.com/docs/en/data-sheet/KL02P32M48SF0.pdf
+$ENDCMP
+#
+$CMP MKL02Z32VFG4
+D Pre-programmed Kinetis KL02 series, 48-MHz/32-bit ARM Cortex-M0+, 32 kB flash, 4 kB SRAM, QFN-16
+K Kinetis KL02 ARM Cortex M0+, Teensy
+F http://www.nxp.com/docs/en/data-sheet/KL02P32M48SF0.pdf
+$ENDCMP
+#
+$CMP MKL02Z8VFG4
+D Kinetis KL02 series, 48-MHz/32-bit ARM Cortex-M0+, 8 kB flash, 1 kB SRAM, QFN-16
+K Kinetis KL02 ARM Cortex M0+
+F http://www.nxp.com/docs/en/data-sheet/KL02P32M48SF0.pdf
+$ENDCMP
+#
+#End Doc Library
