@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Teensy3.6-rescue)(type Legacy)(uri ${KIPRJMOD}/Teensy3.6-rescue.lib)(options "")(descr ""))
+)
